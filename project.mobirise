@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio Marlies",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 72,
     "versionPublish": "4.3.4",
@@ -3650,7 +3650,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/werkwatermerk-1-1380x1000.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -3735,7 +3735,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/plaatce-4-1000x1000.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
